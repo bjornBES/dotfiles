@@ -1,0 +1,16 @@
+{
+    "com.github.mariob88.ulauncher-grep-search": {
+        "id": "com.github.mariob88.ulauncher-grep-search",
+        "url": "https://github.com/mariob88/ulauncher-grep-search",
+        "updated_at": "2025-08-13T13:48:24.358478",
+        "last_commit": "f447d6036ce87ca74e7160707da8f8a25761d7ff",
+        "last_commit_time": "2025-06-08T08:45:36"
+    },
+    "com.github.tchar.ulauncher-albert-calculate-anything": {
+        "id": "com.github.tchar.ulauncher-albert-calculate-anything",
+        "url": "https://github.com/tchar/ulauncher-albert-calculate-anything",
+        "updated_at": "2025-08-13T13:52:35.002841",
+        "last_commit": "037965a44e6f6f496e7ad71ec1651b9edfcde32d",
+        "last_commit_time": "2024-05-29T21:57:26"
+    }
+}

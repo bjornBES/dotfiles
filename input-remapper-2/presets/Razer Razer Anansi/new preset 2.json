@@ -1,0 +1,82 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 189,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            }
+        ],
+        "target_uinput": "keyboard + mouse",
+        "output_symbol": "hold(key_down(BTN_LEFT). key_up(BTN_LEFT).wait(50))",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 56,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            },
+            {
+                "type": 1,
+                "code": 2,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "key(key_6)",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 56,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            },
+            {
+                "type": 1,
+                "code": 3,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "key(key_7)",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 56,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            },
+            {
+                "type": 1,
+                "code": 4,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "key(key_8)",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 56,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            },
+            {
+                "type": 1,
+                "code": 5,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "key(key_9)",
+        "mapping_type": "key_macro"
+    }
+]

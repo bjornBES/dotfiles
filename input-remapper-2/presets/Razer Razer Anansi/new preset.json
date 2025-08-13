@@ -1,0 +1,15 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 41,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            }
+        ],
+        "target_uinput": "keyboard + mouse",
+        "output_symbol": "hold(key_down(KEY_9).wait(50).key(BTN_LEFT).key_up(KEY_9)).\nkey_down(KEY_1).wait(50).key_up(KEY_1)\n",
+        "mapping_type": "key_macro",
+        "release_combination_keys": false
+    }
+]

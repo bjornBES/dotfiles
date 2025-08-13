@@ -1,0 +1,14 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 189,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "hold(key_down(Control_R).key_down(Shift_L).key_down(Alt_L).key_down(m)).\nkey_up(Control_R).key_up(Shift_L).key_up(Alt_L).key_up(m)",
+        "mapping_type": "key_macro"
+    }
+]

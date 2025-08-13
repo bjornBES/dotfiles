@@ -1,0 +1,26 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 95,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "repeat(2, key_down(G).key_up(G))",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 91,
+                "origin_hash": "df83f666b66b0126f9c0b66e957df6b9"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "key(G).key(L).key(H).key(F)",
+        "mapping_type": "key_macro"
+    }
+]
